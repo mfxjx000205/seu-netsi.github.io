@@ -17,6 +17,8 @@ Record Life, Record Us.<br>
 {% assign even_odd = 0 %}
 {% for pic in site.data.pics.ourgroup %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
+
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
