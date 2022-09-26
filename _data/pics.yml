@@ -1,4 +1,8 @@
 ourgroup:
+  - id: 2022_09_25_JSCC1
+    image: 2022_09_24_jscc1.jpg
+    intro: "2022 JSCC1"
+    date: "2022-09-251"
   - id: 2022_09_25_JSCC
     image: 2022_09_24_jscc.jpg
     intro: "2022 JSCC"
