@@ -1,4 +1,8 @@
 ourgroup:
+  - id: 2022_09_09_MidAutumnFestival_test
+    image: 2022_09_09_MidAutumn_Festival1.jpg
+    intro: "2022 Mid Autumn Festival dinner1"
+    date: "2022-09-091"
   - id: 2022_09_25_JSCC
     image: 2022_09_24_jscc.jpg
     intro: "2022 JSCC"
